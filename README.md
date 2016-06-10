@@ -7,3 +7,6 @@
 2.  [Weather Station] (https://www.raspberrypi.org/blog/school-weather-station-project/) - Raspberry Pi with Custom HAT, Oracle Cloud (Collect-Display-Interpret)
 3.  [Pi in the Sky] (https://www.raspberrypi.org/blog/pi-in-the-sky-2/) - Raspberry Pi with High Altitude Balloon (HAB)
 
+### Top Five Books:
+1. [Raspberry Pi User Guide](http://as.wiley.com/WileyCDA/WileyTitle/productCd-1118921666.html) by the creator Eben Upton
+2. [Adventures in Raspberry Pi](http://as.wiley.com/WileyCDA/WileyTitle/productCd-1119046025.html) by Carrie Anne Philbin
